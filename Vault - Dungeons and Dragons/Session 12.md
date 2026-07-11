@@ -14,4 +14,12 @@ As the town widens through the trees, it looks fit to support a population of a 
 
 Entering the town, it moves around freely, and ahead of you is a courtyard filled taller buildings that looks like inns and eateries. A small sign says "Upper Market"
 
-In the Upper Market are two inns, The Dancing Fool and The Broken Staff
+In the Upper Market are two inns, [[The Dancing Fool]] and [[The Broken Staff]]. Other stalls litter the courtyard with food and tools.
+
+**The main rumours the players need to hear are :
+The red dragon [[Sainhuin the Red Dragon]] has gone disappeared since the attack,
+-
+and Mauervell still stands. Only the center of the city was attacked, and the trickle of refugees travelling the roads toward [[City of Quenya]] have reported wars between thieve guilds and kobolds taking sanctuary in the eastern corner of the city and the underground tunnels.
+-
+Some sympathetic Elves are trying to have a refugee city setup closer to Quenya, but we'll see how that goes.
+**

@@ -9,15 +9,16 @@
 
 ### Notable Places:
 
-- The Dancing Fool: A grand adventurer's inn, said to be built atop the tomb of a lich.
-- The Broken Staff: A heroic commoner's inn, said to be built atop a haunted catacombs.
+- [[The Dancing Fool]]: A grand adventurer's inn, said to be built atop the tomb of a lich.
+- [[The Broken Staff]]: A heroic commoner's inn, said to be built atop a haunted catacombs.
+- [[Mathye's Mystical Oddities]]: On Rosehill Way, in an open court yard next to a closed down library. The street outside is lined with a wrought-iron fence.
 
 ### A few NPCs:
 
 - Becha: Female Elf Servant, Good. Becha has an angular face, with short brown hair and amber eyes. She wears plain clothing and several pouches hang from her belt. Becha lost her reflection to a nymph.
 - Killa: Male Elf Fighter, Good. Killa has a square face, with copper hair and brown eyes. He wears banded mail and wields a short sword and short bow. Killa is hunting the warlord who murdered his family.
 - Cushla: Male Elf Craftsman, Neutral. Cushla has short red hair and narrow grey eyes. He wears well-made clothing and carries a long knife. Cushla has an animal companion, a hawk named Ophin.
-- Mana: Female Elf Wizard, Neutral. Mana has golden hair and green eyes. She wears fine clothing and wields a dagger and sling. Mana is haunted by the ghost of someone she killed.
+- Mana: Female Elf Wizard, Neutral. Mana has golden hair and green eyes. She wears fine clothing and wields a dagger and sling. Mana thinks she is haunted by the ghost of someone she killed.
 
 ## Hill Village
 
@@ -45,7 +46,7 @@ Mathye's Mystical Oddities
 - Enches: Male Elf Entertainer, Neutral. Enches has silver hair and light grey eyes. He wears modest garments and a feathered hat. Enches is also known as the best fire-eater in town.
 
 Shops:
-# Mathye's Mystical Oddities
+# [[Mathye's Mystical Oddities]]
 
 Location:
 
