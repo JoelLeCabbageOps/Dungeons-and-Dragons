@@ -15,8 +15,10 @@ The man is [[Entadi Trunai]] and he is a steel dragon
 
 Tortle caves. A lot of tongue of madness spores have floated up from the underdark and rooted in a tortle cave. 
 
-Hermit Home:
+Hermit Home: Thunkk the Mushroom farmer, Gojo, Hisces, Grizzle
 The Hermits name is Kalor Trunai. He needs convincing to come save the island from the pirates as the rest of the group on the island has sworn an oath to not kill any humanoids. The pirates will be returning in greater force than they can handle.
+His family breakdown with his brother is due to his brother's willingness to foster a vulnerable village of people willing to vow to non-violence.
+He wants to leave his brother to wallow in his ways, but can be convinced, or beaten in submission.
 Surrounding his home are groups of familiars, faintly translucent and behaving like they ordinarily would, but completely aggressive to the trespassers.
 1. 1. 4 x Velociraptor (cr 1/4, motm 96, vgm 140); medium, 200 xp; treasure 10 gp; 10 cp; 15 cp; 17 cp
     

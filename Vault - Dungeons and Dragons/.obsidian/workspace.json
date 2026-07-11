@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7cf3770b27a40f77",
+        "id": "90950566f4a92ec9",
         "type": "tabs",
         "children": [
           {
-            "id": "788e6e46a9a41038",
+            "id": "b915217e92ab28eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tesar Island Session 3 2026-06-25.md",
+                "file": "Misthaven under Quenya.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tesar Island Session 3 2026-06-25"
+              "title": "Misthaven under Quenya"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "forest",
+                "query": "tesar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,16 +155,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Session 12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Session 12"
             }
           },
           {
-            "id": "8b05841036715e3e",
+            "id": "e0db926eb0125c32",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -175,29 +176,10 @@
           }
         ],
         "currentTab": 5
-      },
-      {
-        "id": "699bd0dd672c7b94",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "30e1f878f6d167fa",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {
-                "creatureId": "ID_7a2818fb0ad8",
-                "creatureName": "Pirate"
-              },
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 439.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,14 +194,20 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "788e6e46a9a41038",
+  "active": "b915217e92ab28eb",
   "lastOpenFiles": [
-    "Tesar Island session 2 20260618.md",
+    "Pasted image 20260710180713.png",
+    "Session 12.md",
+    "Misthaven under Quenya.md",
+    "The tale of seven.md",
+    "session 10.md",
     "Tesar island campaign.md",
+    "Tesar Island Session 3 2026-06-25.md",
+    "Tesar Island Session 4 2026-07-02.md",
+    "Tesar Island session 2 20260618.md",
     "Random Forest Encounters.md",
     "Orc Tribes.md",
     "Orc TOXOTES/TOKOTAI.md",
-    "Tesar Island Session 3 2026-06-25.md",
     "Seed bank encounter.md",
     "session 9 20260529.md",
     "Giant Wasp.md",
@@ -236,12 +224,6 @@
     "Conjured Elemental.md",
     "Pasted image 20260513201843.png",
     "Gribbets.md",
-    "Find Familiar.md",
-    "Wisdom.md",
-    "Mending.md",
-    "Alour.md",
-    "Session 7 20260425.md",
-    "Vakama.md",
     "Pasted image 20260208110008.png",
     "Untitled.canvas"
   ]
