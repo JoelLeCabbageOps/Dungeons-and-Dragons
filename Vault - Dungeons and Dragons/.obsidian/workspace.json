@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "67f946eb55bcc4a4",
+        "id": "874f3c8002d20e2b",
         "type": "tabs",
         "children": [
           {
-            "id": "e8708f9c0b05f7a0",
+            "id": "567d686e7e34978b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seed bank encounter.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Seed bank encounter"
+              "title": "New tab"
             }
           }
         ]
@@ -163,14 +159,42 @@
               "icon": "lucide-list",
               "title": "Outline of Seed bank encounter"
             }
+          },
+          {
+            "id": "cf6595b9e7745b81",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
+      },
+      {
+        "id": "84c326a21873b371",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ecab869773abce8",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {
+                "creatureId": "ID_88ebdbeb2928",
+                "creatureName": "Natasha"
+              },
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,8 +209,12 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "e8708f9c0b05f7a0",
+  "active": "567d686e7e34978b",
   "lastOpenFiles": [
+    "Session 14 2025-08-08.md",
+    "Seed bank encounter.md",
+    "Session 13 2026-07-18.md",
+    "Mauervell.md",
     "Session 12 2026-07-11.md",
     "Session 11 2026-06-27.md",
     "Random road finds.md",
@@ -203,7 +231,6 @@
     "Random Forest Encounters.md",
     "Orc Tribes.md",
     "Orc TOXOTES/TOKOTAI.md",
-    "Seed bank encounter.md",
     "session 9 20260529.md",
     "Giant Wasp.md",
     "Boreman Kobolder.md",
@@ -212,9 +239,6 @@
     "Ellary of Smiffen Burrows.md",
     "Orc TOXOTES",
     "Hudson Walliker.md",
-    "Session 6.md",
-    "Level 3 - Fight 1.md",
-    "Gommin's town.md",
     "Pasted image 20260513201843.png",
     "Pasted image 20260208110008.png",
     "Untitled.canvas"

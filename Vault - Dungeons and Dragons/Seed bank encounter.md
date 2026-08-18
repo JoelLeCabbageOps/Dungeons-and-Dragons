@@ -77,3 +77,25 @@ The rooms at the rear are filled with ordinary equipment such as torches, sets o
 +2 Armor (studded leather) (very rare, dmg 152)
 A sunblade longsword
 +1 Weapon (lance) (uncommon, dmg 213)
+
+
+Room 23
+"Share"
+Shield: Shield with a plus that matches half you proficiency bonus rounded up retracts into it's center in a spiral so size is adjustable.
+
+Room 22
+"Restore"
+Spear: Spear made of blue steel alloy, so light it almost floats with tossed upwards. It has three charges for two abilities activated as an action or part of an attack: Dash 20 toward location, or Add 1d6 lighting damage damage to a successful attack.. Any amount of charges can be spent at a time. 3 charges max, 1d3 restored per day.
+
+Room 21
+"Learn"
+Sword: Sword that increases in attack strength with # of kills. Starts bronze with a feather pattern. 
+10 kills +1
+30 kills +2
+60 kills +3
+100 kills +4
+
+Room 20
+"Explore"
+Blink short bow: After firing a shot from the bow you may expend a charge to teleport to the projectile's destinatiopn. When you hit a creature with an attack from this bow you can expend a charge to make the target switch places with you if it fails a DC 11 + your proficiency saving throw.
+Wind bowstring. 2 times/day when you fire an arrow you can choose to force the creature to make a Strength saving throw or be pushed 10 feet away from you if the are struck by the arrow.
