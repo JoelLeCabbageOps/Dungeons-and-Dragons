@@ -1,0 +1,1 @@
+A species of waste eating sentient creatures that communicate magnetically. Being within 50 feet of one of them as an ordinary humanoid causes 1 psychic damage per turn

@@ -11,10 +11,14 @@
             "id": "567d686e7e34978b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Wulhubb.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Wulhubb"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "seed",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,7 +187,7 @@
             "state": {
               "type": "initiative-tracker-creature-view",
               "state": {
-                "creatureId": "ID_88ebdbeb2928",
+                "creatureId": "ID_d8096bea58db",
                 "creatureName": "Natasha"
               },
               "icon": "initiative-tracker-creature-view",
@@ -211,6 +215,7 @@
   },
   "active": "567d686e7e34978b",
   "lastOpenFiles": [
+    "Wulhubb.md",
     "Session 14 2025-08-08.md",
     "Seed bank encounter.md",
     "Session 13 2026-07-18.md",
@@ -238,7 +243,6 @@
     "Session 8 20260509.md",
     "Ellary of Smiffen Burrows.md",
     "Orc TOXOTES",
-    "Hudson Walliker.md",
     "Pasted image 20260513201843.png",
     "Pasted image 20260208110008.png",
     "Untitled.canvas"
