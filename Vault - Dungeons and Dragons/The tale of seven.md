@@ -18,5 +18,12 @@ Sessions:
 [[Session 6]]
 [[Session 7 20260425]]
 [[Session 8 20260509]]
+[[session 9 20260529]]
+[[Session 10 2026-06-20]]
+[[Session 11 2026-06-27]]
+[[Session 12 2026-07-11]]
+[[Session 13 2026-07-18]]
+[[Session 14 2026-08-08]]
+[[Session 15 2026-08-29, first in-person session.]]
 
 
