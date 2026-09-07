@@ -1,0 +1,1 @@
+Thanatos Ippotis is greek for Death Knight, which is a small order of knights which are rumoured to be genuinely unkillable. The truth is that their armour reforges their bodies from their surroundings, no matter how grave the injury is.
