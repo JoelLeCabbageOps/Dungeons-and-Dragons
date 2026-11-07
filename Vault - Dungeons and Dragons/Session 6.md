@@ -1,4 +1,4 @@
-[[The tale of seven]]
+[[The Tribunklers]]
 
 Beats:
 1. Toats towers
