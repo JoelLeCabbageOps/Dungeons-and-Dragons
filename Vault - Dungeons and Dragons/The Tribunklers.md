@@ -25,5 +25,8 @@ Sessions:
 [[Session 13 2026-07-18]]
 [[Session 14 2026-08-08]]
 [[Session 15 2026-08-29, first in-person session.]]
+[[Session 16 26-09-19]]
+[[Session 17 26-09-20]]
+[[Session 18 26-10-03]]
 
 

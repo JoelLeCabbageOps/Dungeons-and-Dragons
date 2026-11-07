@@ -8,63 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "524ed27cbfba3a42",
+            "id": "c765606d5d934edd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 17 26-09-20.md",
+                "file": "Session 18 26-10-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 17 26-09-20"
+              "title": "Session 18 26-10-03"
             }
           },
           {
-            "id": "5e71d4b7d457de66",
+            "id": "922f53de03bd67b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monk Adventurer.md",
+                "file": "Session 19 2026-10-18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monk Adventurer"
+              "title": "Session 19 2026-10-18"
             }
           },
           {
-            "id": "b63b94ffd08b8ede",
+            "id": "1b3333d6b1d939ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ring of Mind Shielding.md",
+                "file": "The Icy lair of Boreas the Troll.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ring of Mind Shielding"
-            }
-          },
-          {
-            "id": "9535b50fa3d18e8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Boreas the Troll.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Boreas the Troll"
+              "title": "The Icy lair of Boreas the Troll"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "session 15",
+                "query": "The tale of seven",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -266,11 +252,21 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "9535b50fa3d18e8c",
+  "active": "1b3333d6b1d939ed",
   "lastOpenFiles": [
-    "Session 17 26-09-20.md",
+    "Session 19 2026-10-18.md",
+    "The Icy lair of Boreas the Troll.md",
+    "Session 18 26-10-03.md",
+    "Thanatos Ippotis.md",
+    "Valautheil Merilas.md",
+    "Shailavar Merilas.md",
+    "Boreas the Troll.md",
     "Ring of Mind Shielding.md",
     "Monk Adventurer.md",
+    "Session 17 26-09-20.md",
+    "Session 16 26-09-19.md",
+    "Untitled 2.md",
+    "The Tribunklers.md",
     "Mauervell.md",
     "Fort Luga.md",
     "Creidahill.md",
@@ -284,17 +280,7 @@
     "Artificer Legend NPC.md",
     "Barbarian Initiate.md",
     "Barbarian Adventurer.md",
-    "Barbarian Hero.md",
-    "Barbarian Legend.md",
-    "Monk Initiate.md",
-    "Monk Hero.md",
-    "Monk Legend.md",
-    "Untitled 3.md",
     "Pasted image 20260920165009.png",
-    "The Icy lair of Boreas the Troll.md",
-    "Session 16 26-09-19.md",
-    "Boreas the Troll.md",
-    "Dungeon List.md",
     "Pasted image 20260710180713.png",
     "Orc TOXOTES",
     "Pasted image 20260513201843.png",
