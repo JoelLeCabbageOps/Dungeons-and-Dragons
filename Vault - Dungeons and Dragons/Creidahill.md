@@ -1,5 +1,13 @@
 This towns main exports are potatoes and a logging industry.
 
+
+### Quests
+1. For this quest, a job board says that Arget has job that needs to be discussed in person at his house
+   An ex-adventurer named Arget seeks a company of adventurers to expose a corrupt aristocrat who serves Asas the Demon Count. Before the end, the party discovers that the quest is a trap.
+2. A guarded ex-adventurer named Joycie Maycey seeks a company of adventurers to discover the fate of a company of explorers lost in the Britha Hills. Moreover, the party must complete the quest without leaving any trace of their involvement.
+3. A shady sage named Sionesos seeks a company of adventurers to protect him from the assassins of The Goblin King. Moreover, the party encounters an old ally now working against them, but he's crazy and the party can be paid a few weeks wages for keeping him safe.
+4. A wealthy sage named Tesitho seeks a company of adventurers to protect him from the assassins (Of Illystrial)
+
 ### Population: inaccurate, use FTG
 
 - Approximately 3000; primarily elf, some halfling.

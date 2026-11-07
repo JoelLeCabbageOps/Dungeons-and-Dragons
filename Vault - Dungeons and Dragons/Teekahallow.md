@@ -1,5 +1,9 @@
 Link to the fantasy town generator: https://www.fantasytowngenerator.com/user/settlements/67d284d3-96a4-41ef-85a7-4cc7d09d24ac
 
+
+The village leader(the person people look to) is [[Anemone Goodbarrel]].
+
+
 This towns main produce is rare animal pelt collected seasonally, cured, dried, and crafted in a honed manner passed down through the generations.
 There is a quest relating to the wolves in the town.
 

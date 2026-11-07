@@ -16,3 +16,5 @@ Under the rock is a hole with a strange looking staff in the hole, a rod of abso
 A tree with a knife stabbed through a piece of parchment that simply says "RUN!" It's magically weather resistant.
 
 A glowing silver ring floating five feet in the air. When reached for, it teleports in a random direction 20 feet away. This happens 1d12 times before disappearing for good. If the players ask it to land, it lands, and is a ring of spell storing with three levels of spells inside.
+
+[[Tesar Island campaign session 8 2026-09-02]]
