@@ -1,0 +1,1 @@
+Tiger cave is in the middle of the map. Hippogryph location is to the upper east and the tortle cave in to the lower west.

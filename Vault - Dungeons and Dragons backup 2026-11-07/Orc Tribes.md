@@ -1,0 +1,8 @@
+[[Orc INCENDI]]
+[[Orc BERSERKER]]
+[[Orc DECEIVERS]]
+[[Orc LORICATI]]
+[[Orc BASILISSAS]]
+[[Orc DEVOURERS]]
+[[Orc TOXOTES/TOKOTAI]]
+

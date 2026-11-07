@@ -76,9 +76,19 @@
               "icon": "lucide-file",
               "title": "The Tribunkles so far"
             }
+          },
+          {
+            "id": "0d30c0a61c35b71d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -280,7 +290,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "8883100fa9bb9a7f",
+  "active": "0d30c0a61c35b71d",
   "lastOpenFiles": [
     "The Tribunkles so far.md",
     "Boreas the Troll.md",

@@ -1,0 +1,3 @@
+Likes fine clothing, new foods, and inventions.
+He came from the southern mountain range, but a large bird plucked him from his home and, probably, accidentally separated his head from his body. After falling down the northern face of the mountains he wandered the wilderness in a hot-brained, crazed state, his body regenerated over the next two days. 
+After weeks of killing kobolds and wild animals, he stumbled into a new natural dungeon which latched onto him. It cooled him down and brought him back to his gentlemanly state, where he began working on a set of armour made from the icy crystals growing around the heart of the dungeon. His last step remaining is to carve a fine, cold top hat and infuse the armour with the heart of the dungeon.
