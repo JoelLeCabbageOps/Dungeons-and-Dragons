@@ -32,3 +32,24 @@ Second Level
 Third Level
 	Filled with Boreas's belongings, there's a bed, a table with food, wardrobes filled with troll sized victorian era clothing, and his workshop for making a set of armour that will absorb the heart of the dungeon, turning it into a +3 set of plate armour that will grant fire immunity and keep the wearer absolutely freezing cold. But it's not ready yet and he needs another few days to finish it off.
 Fourth Level
+
+
+
+### The Heart of the Dungeon, my dear friend, is not to be trifled with.
+As the Icy fangs of the heart grip into your body, it seeks every permission you grant it:
+	For every constitution score the player sacrifices, they gain 1.5 in another score of their choice, down to a minimum of 5 in constitution. Sacrificing 1 constitution give 1 point to put towards another stat, but sacrificing two points allows 3 points to be allocated elsewhere. This cannot be undone until the heart is removed from the person.
+
+The heart of the dungeon relies on the abilities of the creature it inhabits. Because a monk will be receiving these abilities, they can sacrifice (2 x LevelOfTheSpell) - 1 ki points to cast a spell. For every ki point they lack, they can sacrifice 5 hp to make up the difference they need to cast a spell.
+
+Spells available to them: 
+**Frostbite** (Cantrip, Evocation)
+**Chromatic Orb** (choose cold as the damage type)
+**Absorb Elements** (react to cold damage taken, gain resistance, and your next melee hit adds 1d6 cold)
+**Ice Knife** (1st Level, Conjuration — Druid, Sorcerer, Wizard, Artificer)
+**Snilloc's Snowball Swarm** (2nd Level, Evocation)
+**Sleet Storm** (Evocation, Druid/Sorcerer/Wizard)
+**Fire Shield** (Evocation, Druid/Sorcerer/Wizard)
+**Cone of Cold** (Evocation, Druid/Sorcerer/Wizard)
+**Otiluke's Freezing Sphere** (6th Level, Evocation)
+**6th Level**: **Wall of Ice**
+**6th Level**: **Investiture of Ice**
